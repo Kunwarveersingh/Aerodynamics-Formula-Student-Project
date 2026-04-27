@@ -64,8 +64,8 @@ CAD (Creo Parametric)
 |-----------|--------|-----------|-----------|
 | Front Wing | 🔄 In progress | TBC | TBC |
 | Rear Wing | 🔄 In progress | TBC | TBC |
-| Undertray | ⏳ Planned | TBC | TBC |
-| Sidepods | ⏳ Planned | TBC | TBC |
+| Undertray | 🔄 In progress | TBC | TBC |
+| Sidepods | 🔄 In progress | TBC | TBC |
 
 > Targets are defined against Formula Student Germany (FSG) regulations.
 
