@@ -140,4 +140,4 @@ Mechanical Engineering Student | Formula Student Aero Team Member
 
 ## 📄 License-->
 
-Geometry exports and simulation scripts in this repository are shared for educational purposes. All rights reserved regarding original design IP.
+Geometry exports and simulation scripts are not included in this repository only an overview of the project with a report will be included. All rights reserved regarding original design IP.
