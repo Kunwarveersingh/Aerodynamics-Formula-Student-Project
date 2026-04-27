@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-This repository documents the aerodynamics development process for a Formula Student car. The goal is to design, simulate, and iterate on a complete aero package — front wing, rear wing, undertray, and sidepods — to maximise downforce while managing drag within competition regulations.
+This repository documents the aerodynamics development process for a Formula Student car. The goal is to design, simulate, and iterate on a complete aero package — front wing, rear wing and undertray — to maximise downforce within competition regulations.
 
 All design decisions, CFD results, and iteration history are tracked in a structured documentation system linked below.
 
@@ -17,7 +17,7 @@ All design decisions, CFD results, and iteration history are tracked in a struct
 
 All progress, CFD run logs, geometry versions, and targets vs actuals are tracked live in Google Sheets:
 
-> 🔗 **[Aerodynamics Formula Student — Project Hub](YOUR_GOOGLE_SHEETS_LINK_HERE)**
+> 🔗 **https://docs.google.com/spreadsheets/d/1oe3-qxtIenzJk-B5498JtbZYvM2R236E6fPFWkVd6Y4/edit?usp=sharing**
 
 ---
 
