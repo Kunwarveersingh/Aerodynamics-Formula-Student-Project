@@ -71,7 +71,7 @@ CAD (Creo Parametric)
 
 ---
 
-## 📁 Repository Structure
+<!---## 📁 Repository Structure
 
 ```
 fs-aero-package/
@@ -84,7 +84,7 @@ fs-aero-package/
 │   └── exports/           # STEP / STL exports for CFD import
 └── docs/
     ├── methodology.md     # CFD setup and mesh strategy
-    └── results_summary.md # Key findings per iteration
+    └── results_summary.md # Key findings per iteration-->
 ```
 
 > ⚠️ Raw Creo `.prt` files are not included — proprietary team IP. STEP exports are provided for reference geometry only.
