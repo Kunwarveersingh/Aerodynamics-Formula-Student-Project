@@ -1,4 +1,4 @@
-# Aerodynamics-Formula-Student---Project
+# Aerodynamics Formula Student - Project
 # 🏎️ Formula Student — Aerodynamics Package
 
 > Developing a full aerodynamics package for a Formula Student race car — from parametric CAD geometry to CFD-validated downforce targets.
