@@ -84,7 +84,7 @@ fs-aero-package/
 │   └── exports/           # STEP / STL exports for CFD import
 └── docs/
     ├── methodology.md     # CFD setup and mesh strategy
-    └── results_summary.md # Key findings per iteration-->
+    └── results_summary.md # Key findings per iteration
 ```
 
 > ⚠️ Raw Creo `.prt` files are not included — proprietary team IP. STEP exports are provided for reference geometry only.
@@ -138,6 +138,6 @@ Mechanical Engineering Student | Formula Student Aero Team Member
 
 ---
 
-## 📄 License
+## 📄 License-->
 
 Geometry exports and simulation scripts in this repository are shared for educational purposes. All rights reserved regarding original design IP.
