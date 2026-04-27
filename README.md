@@ -27,7 +27,6 @@ All progress, CFD run logs, geometry versions, and targets vs actuals are tracke
 |-------|------|
 | Parametric CAD | Creo Parametric |
 | CFD Simulation | Siemens StarCCM+ |
-| Post-processing | Python |
 | Documentation | Google Docs / Google Sheets |
 | Version tracking | GitHub |
 
