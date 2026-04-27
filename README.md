@@ -45,7 +45,7 @@ CAD (Creo Parametric)
   └── Boundary conditions
         │
         ▼
-  Post-process results (Python)
+  Post-process results
   ├── Extract Cl, Cd, L/D
   └── Pressure / velocity visualisations
         │
